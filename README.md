@@ -1,6 +1,6 @@
 # Movie-box-office-analysis
 
-## Korean Movie Box Office Analysis (2010–2025)
+## Korean Movie Box Office Analysis (2010– April 2025)
 
 A comprehensive data analysis project examining the trends, regional spending behavior, age-rating impacts, and historical evolution of the South Korean cinema industry using Microsoft Excel.
 
