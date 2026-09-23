@@ -25,7 +25,7 @@ The following data cleaning and preparation steps were performed:
 
 ### Q2: Audience Turnout vs. Revenue by Region (Seoul vs. Nationwide)
 *   **Volume Comparison:** Audiences outside of Seoul spent a combined **₩14.8 trillion**, compared to **₩5.8 trillion** within Seoul. This macro difference is expected given the population distribution outside a single metropolitan center.
-*   **Per-Capita Spending:** On a per-person basis, Seoul moviegoers spent an average of **₩8,622 per ticket**—roughly **5.8% more** than the **₩8,147** nationwide average.
+*   **Per-Capita Spending:** On a per-person basis, Seoul moviegoers spent an average of **₩8,622 per ticket**, roughly **5.8% more** than the **₩8,147** nationwide average.
 *   **Takeaway:** This indicates a localized premium in the capital city, likely driven by a higher density of premium-format screens (IMAX, 4DX) or higher ticket pricing tiers.
 
 ### Q3: Age Ratings and Box Office Impact
